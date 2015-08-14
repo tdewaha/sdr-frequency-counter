@@ -21,4 +21,8 @@ Result:
 
 
 
+Uses:
+KissFFT for fast fourier transform (http://kissfft.sourceforge.net/)
+librtlsdr to handle the dvb-t dongle (https://github.com/steve-m/librtlsdr)
+
 
