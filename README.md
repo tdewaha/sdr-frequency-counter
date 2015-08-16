@@ -4,11 +4,11 @@ a frequency range.
 
 Build: 
 
-    gcc counter.c kiss_fft.c -lrtlsdr -lm -o counter
+    "make" 
 
 Usage: 
 
-    ./counter 140 150
+    ./ffcounter 140 150
 
 Result:
 
