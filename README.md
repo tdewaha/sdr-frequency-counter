@@ -8,7 +8,7 @@ Build:
 
 Usage: 
 
-    ./ffcounter 140 150
+    ./fcounter 140 150
 
 Result:
 
